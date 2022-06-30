@@ -1,4 +1,4 @@
-print("fuck async")
+print("tuck async")
 import asyncio
 
 
